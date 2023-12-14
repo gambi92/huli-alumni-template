@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/daniel-gambino-5889b2b5
 Email: dgambino293@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+DigiDent (it's private for now): https://github.com/gambi92/DigiDent/
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/gambi92
