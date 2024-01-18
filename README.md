@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/daniel-gambino-5889b2b5
 Email: dgambino293@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-DigiDent (it's private for now): https://github.com/gambi92/DigiDent/
+DigiDent: https://github.com/gambi92/DigiDent/
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/gambi92
@@ -17,6 +17,6 @@ Hackerrank: https://www.hackerrank.com/gdani14
 Codewars: https://www.codewars.com/users/gambi92
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
-Upload your solutions as files into interview-tests/ directory
+
 
 
